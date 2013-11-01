@@ -1,0 +1,20 @@
+[
+    {
+        "type": "Lion",
+        "name": "Liberty",
+        "age": 11,
+        "photo": "http://images.nationalgeographic.com/wpf/media-live/photos/000/004/cache/african-lion-male_436_600x450.jpg"
+    },
+    {
+        "type": "Penguin",
+        "name": "Peter",
+        "age": 4,
+        "photo": "http://upload.wikimedia.org/wikipedia/commons/0/07/Emperor_Penguin_Manchot_empereur.jpg"
+    },
+    {
+        "type": "Red Panda",
+        "name": "Firefox",
+        "age": 3,
+        "photo": "http://news.worldwild.org/wp-content/uploads/2008/09/red_panda.jpg"
+    }
+]
