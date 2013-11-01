@@ -6,7 +6,7 @@ requirejs.config({
         "text":         "../lib/require/text",
         "json":         "../lib/require/json",
 
-        "jquery":       ["https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min", "../lib/jquery/jquery.min"],
+        "jquery":       "../lib/jquery/jquery.min",
 
         "underscore":   "../lib/underscore/underscore",
         "moment":       "../lib/moment/moment",
