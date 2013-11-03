@@ -1,0 +1,16 @@
+<a href="#/">Back to home</a>
+<br />
+<%
+    _( animals ).each( function( animal, id ){
+%>
+        <div style="float: left; width: 10em">
+            <a href="#/animals/animal/<%= id %>">
+                <p>
+                    <strong>Type:</strong><%= animal.type %>
+                </p>
+                <img src="<%= animal.photo %>" width="75%" />
+            </a>
+        </div>
+<%
+    });
+%>
